@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Alt text](asset\preview.png)
+![Alt text](preview.png)

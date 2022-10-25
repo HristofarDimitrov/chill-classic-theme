@@ -6,7 +6,13 @@
   "engines": {
     "vscode": "^1.72.0"
   },
-  "icon": "asset/icon.png",
+  "icon": "icon.png",
+  "publisher": "Christopher473",
+  "author": {
+    "name": "Christopher Dimitrov"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/HristofarDimitrov/chill-classic-theme",
   "categories": [
     "Themes"
   ],
