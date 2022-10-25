@@ -6,4 +6,4 @@
 
 ## Preview
 
-![Alt text](preview.png)
+<img src="preview.png" />

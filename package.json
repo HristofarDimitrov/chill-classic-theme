@@ -2,7 +2,7 @@
   "name": "chill-classic",
   "displayName": "chill-classic",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -13,6 +13,9 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/HristofarDimitrov/chill-classic-theme",
+  "repository": {
+    "url": "https://github.com/HristofarDimitrov/chill-classic-theme"
+  },
   "categories": [
     "Themes"
   ],
